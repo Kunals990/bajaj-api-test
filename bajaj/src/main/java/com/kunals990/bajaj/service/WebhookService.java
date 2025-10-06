@@ -35,9 +35,9 @@ public class WebhookService {
         try {
             WebhookRequest request = new WebhookRequest();
 
-            request.setName("Kunal Sable");
-            request.setRegNo("112215102");
-            request.setEmail("112215102@cse.iiitp.ac.in");
+            request.setName("Ridhesh Chauhan");
+            request.setRegNo("112215050");
+            request.setEmail("112215050@cse.iiitp.ac.in");
 
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.APPLICATION_JSON);
